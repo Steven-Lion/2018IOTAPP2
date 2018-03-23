@@ -19,8 +19,7 @@
         android:layout_marginTop="60dp"
         android:layout_marginLeft="40dp"
         android:layout_weight="1"
-
-        android:button="@drawable/round_background"
+        android:button="@drawable/check_curtain_switch"
         android:layout_width="90dp"
         android:layout_height="90dp" />
 
